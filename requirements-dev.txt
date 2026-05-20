@@ -1,0 +1,15 @@
+# Development dependencies
+-r requirements.txt
+
+# Testing
+pytest==8.0.0
+pytest-cov==4.1.0
+
+# Code quality
+flake8==7.0.0
+black==24.1.0
+isort==5.13.2
+
+# Notebook tools
+nbformat==5.9.2
+jupyter==1.0.0
