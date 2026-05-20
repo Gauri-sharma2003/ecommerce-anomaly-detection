@@ -12,8 +12,6 @@
 ![Data](https://img.shields.io/badge/Data-Real%20Kaggle%20(100K%2B%20orders)-brightgreen)
 ![Kaggle](https://img.shields.io/badge/Kaggle-Olist%20Brazilian%20E--Commerce-20BEFF?logo=kaggle)
 
-### 🌐 [▶️ Live Demo (Streamlit Cloud)](https://ecommerce-anomaly-detection.streamlit.app) &nbsp;|&nbsp; 📹 [2-min Video Walkthrough](https://www.loom.com/share/ecommerce-anomaly-demo)
-
 ---
 
 ## 🎯 Results at a Glance
