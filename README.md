@@ -321,8 +321,8 @@ All key claims are validated with **95% bootstrap confidence intervals** and hyp
 ## 📬 Contact
 
 **Gauri Sharma** — Data Analyst  
-📧 gauri.sharma@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/gauri-sharma-data) | [GitHub](https://github.com/gauri-sharma)
+📧 sharmagauri771@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/gauri-sharma-432522241) | [GitHub](https://github.com/gauri-sharma)
 
 ---
 
